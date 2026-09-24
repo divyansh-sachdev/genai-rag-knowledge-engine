@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.chroma/
+documents/*
+!documents/.gitkeep
+.env
